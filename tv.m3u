@@ -1,4 +1,8 @@
 #EXTM3U
+
+
+#EXTINF:-1, :: REGIO CHANNEL :: (EVENTOS)
+http://regioplay.xyz/php/SR_REGIO_910112_/th.php?channel=srregio&f.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", DREIKO TV
 http://regioplay.xyz/php/SR_REGIO_910112_/dreiko.php?f=.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", KANADE TV
