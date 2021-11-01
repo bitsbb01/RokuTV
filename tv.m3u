@@ -640,3 +640,143 @@ http://free.fullspeed.tv/query?url=https://www.dailymotion.com/embed/video/x3m1x
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x3m1xfy?autoplay=1
 #EXTINF:-1 tvg-id="UnoTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="",Uno TV (720p) [Not 24/7]
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ANUNCIO SHORTGOD" tvg-logo="" group-title="ShortGod",ANUNCIO: ShortGod
+http://gratis.shortgod.com/apoyapemano/vencida.php?anuncio&gratuito.m3u8
+#EXTINF:-1,80s Hits
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0gb
+#EXTINF:-1,AE Mundo
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ig
+#EXTINF:-1,AXN
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0j9
+#EXTINF:-1,Animal Planet
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0i9
+#EXTINF:-1,CNN Espanol
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0i6
+#EXTINF:-1,Canal Estrellas
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ij
+#EXTINF:-1,Canal Uno TV Ecu
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0iz
+#EXTINF:-1,Cartoon Network
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0h7
+#EXTINF:-1,Cinecanal
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jv
+#EXTINF:-1,Cinemax
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0j7
+#EXTINF:-1,Claro Sports
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ht
+#EXTINF:-1,Discovery Channel
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0i8
+#EXTINF:-1,Discovery ID
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jg
+#EXTINF:-1,Discovery Kids
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0i5
+#EXTINF:-1,Discovery Turbo
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0hi
+#EXTINF:-1,Disney Channel
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0i7
+#EXTINF:-1,Disney Jr
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0i3
+#EXTINF:-1,Disney XD
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0k4
+#EXTINF:-1,E Entertainment
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0gh
+#EXTINF:-1,ESPN
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ie
+#EXTINF:-1,ESPN 2 Latin
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0id
+#EXTINF:-1,ESPN 3
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0je
+#EXTINF:-1,ESPN CO
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0j5
+#EXTINF:-1,Ecuador TV
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jp
+#EXTINF:-1,Ecuavisa
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0j3
+#EXTINF:-1,ElCanaldelFutbol HD
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0l6
+#EXTINF:-1,Enlace
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0h9
+#EXTINF:-1,Esne TV
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jd
+#EXTINF:-1,FX
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jb
+#EXTINF:-1,FXM
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0hx
+#EXTINF:-1,Fox Sports
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ic
+#EXTINF:-1,Fox Sports 1
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jo
+#EXTINF:-1,Fox Sports 2
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0k3
+#EXTINF:-1,Fox Sports 3
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ik
+#EXTINF:-1,France 24
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jh
+#EXTINF:-1,GOL TV
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ky
+#EXTINF:-1,GamaTV
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jq
+#EXTINF:-1,GolTV HD
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0l2
+#EXTINF:-1,History Channel
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ju
+#EXTINF:-1,HomeandHealth
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jj
+#EXTINF:-1,I-Sat
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jx
+#EXTINF:-1,MTV
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0h3
+#EXTINF:-1,Nat Geo
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0h2
+#EXTINF:-1,NatGeo Kids
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0h6
+#EXTINF:-1,Nick Jr
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jc
+#EXTINF:-1,Nickelodeon
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jt
+#EXTINF:-1,RCN Novelas
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jf
+#EXTINF:-1,RTS
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0kw
+#EXTINF:-1,STAR LIFE
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0k5
+#EXTINF:-1,Sony
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0j8
+#EXTINF:-1,Space
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ja
+#EXTINF:-1,TBS
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ji
+#EXTINF:-1,TC Television
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0j0
+#EXTINF:-1,TCM
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0k0
+#EXTINF:-1,TLC
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ii
+#EXTINF:-1,TNT
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0k1
+#EXTINF:-1,TVE
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jr
+#EXTINF:-1,Teleamazonas
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0j4
+#EXTINF:-1,Telemundo
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0il
+#EXTINF:-1,TyC
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0k7
+#EXTINF:-1,Universal
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jw
+#EXTINF:-1,Venus
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ih
+#EXTINF:-1,Warner
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0ia
+#EXTINF:-1,Zona Latina
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jz
